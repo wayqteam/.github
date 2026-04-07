@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-light.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png">
-  <img alt="WayQ Technologies" src="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo.png" width="160">
+  <img alt="WayQ Technologies" src="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png" width="160">
 </picture>
 
 ## WayQ Technologies Private Limited
