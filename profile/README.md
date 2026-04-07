@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png">
   <img alt="WayQ Technologies" src="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png" width="160">
 </picture>
@@ -9,13 +9,6 @@
 We build products that move India forward.
 
 **WayQ** is a technology company based in Kerala, India, creating platforms across mobility, commerce, and infrastructure.
-
-### Our Products
-
-- **WeeBee** — A hyperlocal commerce and payments platform
-- **WayMap** — Mapping and logistics intelligence
-- **Mira** — AI-powered solutions
-- **Maya** — Next-generation product experiences
 
 ### Quick Links
 
