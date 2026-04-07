@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wayq.in/logo-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://wayq.in/logo-dark.svg">
-  <img alt="WayQ Technologies" src="https://wayq.in/logo-dark.svg" width="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo-dark.png">
+  <img alt="WayQ Technologies" src="https://raw.githubusercontent.com/wayqteam/.github/main/profile/logo.png" width="160">
 </picture>
 
 ## WayQ Technologies Private Limited
