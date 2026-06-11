@@ -1,9 +1,7 @@
 # Beekon Individual Contributor License Agreement
 
-> **DRAFT — pending legal review by WayQ Technologies Pvt Ltd counsel.**
-> Do not rely on this text until that review is complete. Based on the
-> Project Harmony Individual Contributor License Agreement (HA-CLA-I),
-> "Licensed" variant with the relicensing (Option: *any license*) outbound grant.
+**Version 1.0 — effective 2026-06-11.** Based on the Project Harmony Individual
+Contributor License Agreement (HA-CLA-I), "Licensed" variant.
 
 Thank you for your interest in contributing to Beekon, a project of **WayQ
 Technologies Pvt Ltd** ("WayQ", "We" or "Us").
@@ -163,3 +161,7 @@ you to sign this Agreement. To sign, add a comment on your pull request containi
 Your signature (GitHub username and the commit you signed against) is recorded in a
 private WayQ signature store. You only need to sign once; the signature applies to
 all Beekon repositories.
+
+## Questions
+
+Questions about this Agreement? Open an issue in the relevant Beekon repository.
