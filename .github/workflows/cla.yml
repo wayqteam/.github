@@ -8,6 +8,12 @@ name: CLA Assistant (reusable)
 
 on:
   workflow_call:
+    inputs:
+      runner:
+        description: Runner label for the CLA job (callers on self-hosted runners pass e.g. X18)
+        type: string
+        required: false
+        default: ubuntu-latest
     secrets:
       PERSONAL_ACCESS_TOKEN:
         required: true
@@ -20,7 +26,7 @@ permissions:
 
 jobs:
   cla:
-    runs-on: ubuntu-latest
+    runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
     # Only act on PR events and on the signing comment — never on push/merge_group.
     if: >
       (github.event_name == 'issue_comment' &&
